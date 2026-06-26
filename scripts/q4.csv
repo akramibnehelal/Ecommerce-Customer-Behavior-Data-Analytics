@@ -1,0 +1,4 @@
+churn_risk,customer_count,pct_total,avg_spend,avg_rating
+"Low Risk",194,55.7,976.3,4.19
+"Medium Risk",113,32.5,692.18,3.78
+"High Risk",41,11.8,668.64,3.92

@@ -1,0 +1,7 @@
+City,customer_count,avg_spend,avg_rating,avg_days_inactive
+"San Francisco",58,1459.77,4.81,11.2
+"New York",59,1165.04,4.54,24.6
+"Los Angeles",59,805.49,4.17,15.3
+Miami,58,690.39,3.93,45.5
+Chicago,58,499.88,3.46,40.5
+Houston,56,447.65,3.19,22.8

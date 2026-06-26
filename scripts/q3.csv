@@ -1,0 +1,7 @@
+"Membership Type","Satisfaction Level",customer_count,pct_of_tier
+Bronze,Unsatisfied,58,50.9
+Bronze,Neutral,56,49.1
+Gold,Satisfied,117,100.0
+Silver,Unsatisfied,58,49.6
+Silver,Neutral,51,43.6
+Silver,Satisfied,8,6.8

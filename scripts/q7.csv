@@ -1,0 +1,6 @@
+Gender,"Membership Type",customers,avg_spend,pct_satisfied
+Female,Gold,58,1164.25,100.0
+Female,Silver,1,730.4,0.0
+Female,Bronze,114,474.22,0.0
+Male,Gold,59,1455.55,100.0
+Male,Silver,116,748.59,6.9

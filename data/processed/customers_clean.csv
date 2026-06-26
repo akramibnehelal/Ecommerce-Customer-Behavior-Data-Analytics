@@ -1,0 +1,349 @@
+Customer ID,Gender,Age,City,Membership Type,Total Spend,Items Purchased,Average Rating,Discount Applied,Days Since Last Purchase,Satisfaction Level,Spend Per Item,Spend Segment,Churn Risk,Age Group
+101,Female,29,New York,Gold,1120.2,14,4.6,TRUE,25,Satisfied,80.01428571,High (>$1000),Low Risk,26-30
+102,Male,34,Los Angeles,Silver,780.5,11,4.1,FALSE,18,Neutral,70.95454545,Mid ($600-$1000),Low Risk,31-35
+103,Female,43,Chicago,Bronze,510.75,9,3.4,TRUE,42,Unsatisfied,56.75,Low (<$600),Medium Risk,41-43
+104,Male,30,San Francisco,Gold,1480.3,19,4.7,FALSE,12,Satisfied,77.91052632,High (>$1000),Low Risk,26-30
+105,Male,27,Miami,Silver,720.4,13,4,TRUE,55,Unsatisfied,55.41538462,Mid ($600-$1000),High Risk,26-30
+106,Female,37,Houston,Bronze,440.8,8,3.1,FALSE,22,Neutral,55.1,Low (<$600),Low Risk,36-40
+107,Female,31,New York,Gold,1150.6,15,4.5,TRUE,28,Satisfied,76.70666667,High (>$1000),Medium Risk,31-35
+108,Male,35,Los Angeles,Silver,800.9,12,4.2,FALSE,14,Neutral,66.74166667,Mid ($600-$1000),Low Risk,31-35
+109,Female,41,Chicago,Bronze,495.25,10,3.6,TRUE,40,Unsatisfied,49.525,Low (<$600),Medium Risk,41-43
+110,Male,28,San Francisco,Gold,1520.1,21,4.8,FALSE,9,Satisfied,72.38571429,High (>$1000),Low Risk,26-30
+111,Male,32,Miami,Silver,690.3,11,3.8,TRUE,34,Unsatisfied,62.75454545,Mid ($600-$1000),Medium Risk,31-35
+112,Female,36,Houston,Bronze,470.5,7,3.2,FALSE,20,Neutral,67.21428571,Low (<$600),Low Risk,36-40
+113,Female,30,New York,Gold,1200.8,16,4.3,TRUE,21,Satisfied,75.05,High (>$1000),Low Risk,26-30
+114,Male,33,Los Angeles,Silver,820.75,13,4.4,FALSE,15,Satisfied,63.13461538,Mid ($600-$1000),Low Risk,31-35
+115,Female,42,Chicago,Bronze,530.4,9,3.5,TRUE,38,Unsatisfied,58.93333333,Low (<$600),Medium Risk,41-43
+116,Male,29,San Francisco,Gold,1360.2,18,4.9,FALSE,11,Satisfied,75.56666667,High (>$1000),Low Risk,26-30
+117,Male,26,Miami,Silver,700.6,12,3.7,TRUE,48,Unsatisfied,58.38333333,Mid ($600-$1000),High Risk,26-30
+118,Female,38,Houston,Bronze,450.9,8,3,FALSE,25,Neutral,56.3625,Low (<$600),Low Risk,36-40
+119,Female,32,New York,Gold,1170.3,14,4.7,TRUE,29,Satisfied,83.59285714,High (>$1000),Medium Risk,31-35
+120,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,16,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+121,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,41,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+122,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+123,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+124,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+125,Female,31,New York,Gold,1140.6,15,4.6,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+126,Male,35,Los Angeles,Silver,810.9,12,4.3,FALSE,13,Neutral,67.575,Mid ($600-$1000),Low Risk,31-35
+127,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+128,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+129,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+130,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+131,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+132,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+133,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+134,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+135,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+136,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+137,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+138,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+139,Female,43,Chicago,Bronze,500.75,10,3.3,TRUE,40,Unsatisfied,50.075,Low (<$600),Medium Risk,41-43
+140,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,12,Satisfied,73.025,High (>$1000),Low Risk,26-30
+141,Male,27,Miami,Silver,700.4,13,4,TRUE,53,Unsatisfied,53.87692308,Mid ($600-$1000),High Risk,26-30
+142,Female,37,Houston,Bronze,420.8,7,3.1,FALSE,21,Neutral,60.11428571,Low (<$600),Low Risk,36-40
+143,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+144,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+145,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+146,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+147,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+148,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+149,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+150,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+151,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+152,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+153,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+154,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+155,Female,31,New York,Gold,1140.6,15,4.6,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+156,Male,35,Los Angeles,Silver,810.9,12,4.3,FALSE,13,Neutral,67.575,Mid ($600-$1000),Low Risk,31-35
+157,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+158,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+159,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+160,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+161,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+162,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+163,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+164,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+165,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+166,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+167,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+168,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+169,Female,43,Chicago,Bronze,500.75,10,3.3,TRUE,40,Unsatisfied,50.075,Low (<$600),Medium Risk,41-43
+170,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,12,Satisfied,73.025,High (>$1000),Low Risk,26-30
+171,Male,27,Miami,Silver,700.4,13,4,TRUE,53,Unsatisfied,53.87692308,Mid ($600-$1000),High Risk,26-30
+173,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+174,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+175,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+176,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+177,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+178,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+179,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+180,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+181,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+182,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+183,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+184,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+185,Female,31,New York,Gold,1140.6,15,4.6,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+186,Male,35,Los Angeles,Silver,810.9,12,4.3,FALSE,13,Neutral,67.575,Mid ($600-$1000),Low Risk,31-35
+187,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+188,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+189,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+190,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+191,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+192,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+193,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+194,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+195,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+196,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+197,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+198,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+199,Female,43,Chicago,Bronze,500.75,10,3.3,TRUE,40,Unsatisfied,50.075,Low (<$600),Medium Risk,41-43
+200,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,12,Satisfied,73.025,High (>$1000),Low Risk,26-30
+201,Male,27,Miami,Silver,700.4,13,4,TRUE,53,Unsatisfied,53.87692308,Mid ($600-$1000),High Risk,26-30
+202,Female,37,Houston,Bronze,420.8,7,3.1,FALSE,21,Neutral,60.11428571,Low (<$600),Low Risk,36-40
+203,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+204,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+205,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+206,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+207,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+208,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+209,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+210,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+211,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+212,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+213,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+214,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+215,Female,31,New York,Gold,1140.6,15,4.6,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+216,Male,35,Los Angeles,Silver,810.9,12,4.3,FALSE,13,Neutral,67.575,Mid ($600-$1000),Low Risk,31-35
+217,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+218,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+219,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+220,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+221,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+222,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+223,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+224,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+225,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+226,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+227,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+228,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+229,Female,43,Chicago,Bronze,500.75,10,3.3,TRUE,40,Unsatisfied,50.075,Low (<$600),Medium Risk,41-43
+230,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,12,Satisfied,73.025,High (>$1000),Low Risk,26-30
+231,Male,27,Miami,Silver,700.4,13,4,TRUE,53,Unsatisfied,53.87692308,Mid ($600-$1000),High Risk,26-30
+232,Female,37,Houston,Bronze,420.8,7,3.1,FALSE,21,Neutral,60.11428571,Low (<$600),Low Risk,36-40
+233,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+234,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+235,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+236,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+237,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+238,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+239,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+240,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+241,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+242,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+243,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+245,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+246,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+247,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+248,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+249,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+250,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+251,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+252,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+253,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+254,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+255,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+256,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+257,Female,31,New York,Gold,1140.6,15,4.6,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+258,Male,35,Los Angeles,Silver,810.9,12,4.3,FALSE,13,Neutral,67.575,Mid ($600-$1000),Low Risk,31-35
+259,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+260,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+261,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+262,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+263,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+264,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+265,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+266,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+267,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+268,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+269,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+270,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+271,Female,43,Chicago,Bronze,500.75,10,3.3,TRUE,40,Unsatisfied,50.075,Low (<$600),Medium Risk,41-43
+272,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,12,Satisfied,73.025,High (>$1000),Low Risk,26-30
+273,Male,27,Miami,Silver,700.4,13,4,TRUE,53,Unsatisfied,53.87692308,Mid ($600-$1000),High Risk,26-30
+274,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+275,Female,31,New York,Gold,1140.6,15,4.5,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+276,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+277,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+278,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+279,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+280,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+281,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+282,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+283,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+284,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+285,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+286,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+287,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+288,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,13,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+289,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+290,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+291,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+292,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+293,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+294,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+295,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+296,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+297,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+298,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+299,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+300,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+301,Male,36,San Francisco,Gold,1420.8,19,4.6,FALSE,11,Satisfied,74.77894737,High (>$1000),Low Risk,36-40
+302,Female,29,Miami,Silver,730.4,14,4,TRUE,50,Unsatisfied,52.17142857,Mid ($600-$1000),High Risk,26-30
+303,Female,35,Houston,Bronze,450.6,7,3.3,FALSE,21,Neutral,64.37142857,Low (<$600),Low Risk,31-35
+304,Male,31,New York,Gold,1210.6,17,4.8,TRUE,18,Satisfied,71.21176471,High (>$1000),Low Risk,31-35
+305,Male,27,Los Angeles,Silver,780.9,11,4.2,FALSE,16,Neutral,70.99090909,Mid ($600-$1000),Low Risk,26-30
+306,Female,42,Chicago,Bronze,495.25,10,3.5,TRUE,35,Unsatisfied,49.525,Low (<$600),Medium Risk,41-43
+307,Male,29,San Francisco,Gold,1390.2,18,4.7,FALSE,9,Satisfied,77.23333333,High (>$1000),Low Risk,26-30
+308,Male,26,Miami,Silver,670.6,12,3.9,TRUE,46,Unsatisfied,55.88333333,Mid ($600-$1000),High Risk,26-30
+309,Female,38,Houston,Bronze,460.9,8,3.2,FALSE,25,Neutral,57.6125,Low (<$600),Low Risk,36-40
+310,Female,32,New York,Gold,1170.3,14,4.5,TRUE,21,Satisfied,83.59285714,High (>$1000),Low Risk,31-35
+311,Male,34,Los Angeles,Silver,810.2,11,4,FALSE,14,Neutral,73.65454545,Mid ($600-$1000),Low Risk,31-35
+312,Female,43,Chicago,Bronze,515.75,9,3.3,TRUE,38,Unsatisfied,57.30555556,Low (<$600),Medium Risk,41-43
+313,Male,30,San Francisco,Gold,1450.5,20,4.8,FALSE,12,Satisfied,72.525,High (>$1000),Low Risk,26-30
+314,Male,27,Miami,Silver,690.4,13,4.1,TRUE,52,Unsatisfied,53.10769231,Mid ($600-$1000),High Risk,26-30
+315,Female,37,Houston,Bronze,420.8,7,3.4,FALSE,24,Neutral,60.11428571,Low (<$600),Low Risk,36-40
+316,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied,75.37333333,High (>$1000),Medium Risk,31-35
+317,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,13,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+318,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,39,Unsatisfied,53.36111111,Low (<$600),Medium Risk,41-43
+319,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,9,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+320,Male,32,Miami,Silver,680.3,10,3.8,TRUE,32,Unsatisfied,68.03,Mid ($600-$1000),Medium Risk,31-35
+321,Female,36,Houston,Bronze,470.5,8,3,FALSE,18,Neutral,58.8125,Low (<$600),Low Risk,36-40
+322,Female,30,New York,Gold,1180.8,16,4.7,TRUE,19,Satisfied,73.8,High (>$1000),Low Risk,26-30
+323,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+324,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,39,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+325,Male,30,San Francisco,Gold,1470.5,20,4.8,FALSE,13,Satisfied,73.525,High (>$1000),Low Risk,26-30
+326,Male,27,Miami,Silver,710.4,13,4.1,TRUE,54,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+327,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,23,Neutral,61.54285714,Low (<$600),Low Risk,36-40
+328,Female,31,New York,Gold,1140.6,15,4.5,TRUE,27,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+329,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,13,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+330,Female,41,Chicago,Bronze,485.25,9,3.6,TRUE,39,Unsatisfied,53.91666667,Low (<$600),Medium Risk,41-43
+331,Male,28,San Francisco,Gold,1500.1,21,4.9,FALSE,10,Satisfied,71.43333333,High (>$1000),Low Risk,26-30
+332,Male,32,Miami,Silver,670.3,10,3.8,TRUE,33,Unsatisfied,67.03,Mid ($600-$1000),Medium Risk,31-35
+333,Female,36,Houston,Bronze,460.5,8,3.1,FALSE,19,Neutral,57.5625,Low (<$600),Low Risk,36-40
+334,Female,30,New York,Gold,1190.8,16,4.5,TRUE,20,Satisfied,74.425,High (>$1000),Low Risk,26-30
+335,Male,33,Los Angeles,Silver,830.75,13,4.2,FALSE,14,Satisfied,63.90384615,Mid ($600-$1000),Low Risk,31-35
+336,Female,42,Chicago,Bronze,520.4,9,3.5,TRUE,37,Unsatisfied,57.82222222,Low (<$600),Medium Risk,41-43
+337,Male,29,San Francisco,Gold,1370.2,18,4.7,FALSE,10,Satisfied,76.12222222,High (>$1000),Low Risk,26-30
+338,Male,26,Miami,Silver,690.6,12,3.9,TRUE,47,Unsatisfied,57.55,Mid ($600-$1000),High Risk,26-30
+339,Female,38,Houston,Bronze,440.9,8,3.2,FALSE,24,Neutral,55.1125,Low (<$600),Low Risk,36-40
+340,Female,32,New York,Gold,1160.3,14,4.4,TRUE,22,Satisfied,82.87857143,High (>$1000),Low Risk,31-35
+341,Male,34,Los Angeles,Silver,800.2,11,4.1,FALSE,17,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+342,Female,43,Chicago,Bronze,525.75,9,3.3,TRUE,40,Unsatisfied,58.41666667,Low (<$600),Medium Risk,41-43
+343,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,11,Satisfied,73.025,High (>$1000),Low Risk,26-30
+344,Male,27,Miami,Silver,720.4,13,4,TRUE,55,Unsatisfied,55.41538462,Mid ($600-$1000),High Risk,26-30
+345,Female,37,Houston,Bronze,440.8,7,3.2,FALSE,25,Neutral,62.97142857,Low (<$600),Low Risk,36-40
+346,Female,31,New York,Gold,1150.6,15,4.5,TRUE,28,Satisfied,76.70666667,High (>$1000),Medium Risk,31-35
+347,Male,35,Los Angeles,Silver,830.9,12,4.3,FALSE,14,Neutral,69.24166667,Mid ($600-$1000),Low Risk,31-35
+348,Female,41,Chicago,Bronze,490.25,9,3.6,TRUE,40,Unsatisfied,54.47222222,Low (<$600),Medium Risk,41-43
+349,Male,28,San Francisco,Gold,1480.1,21,4.9,FALSE,10,Satisfied,70.48095238,High (>$1000),Low Risk,26-30
+350,Male,32,Miami,Silver,690.3,10,3.8,TRUE,34,Unsatisfied,69.03,Mid ($600-$1000),Medium Risk,31-35
+351,Female,36,Houston,Bronze,480.5,8,3.1,FALSE,20,Neutral,60.0625,Low (<$600),Low Risk,36-40
+352,Female,30,New York,Gold,1170.8,16,4.7,TRUE,21,Satisfied,73.175,High (>$1000),Low Risk,26-30
+353,Male,34,Los Angeles,Silver,790.2,11,4,FALSE,15,Neutral,71.83636364,Mid ($600-$1000),Low Risk,31-35
+354,Female,43,Chicago,Bronze,510.75,10,3.3,TRUE,41,Unsatisfied,51.075,Low (<$600),Medium Risk,41-43
+355,Male,30,San Francisco,Gold,1440.5,19,4.6,FALSE,12,Satisfied,75.81578947,High (>$1000),Low Risk,26-30
+356,Male,27,Miami,Silver,700.4,13,4.1,TRUE,56,Unsatisfied,53.87692308,Mid ($600-$1000),High Risk,26-30
+357,Female,37,Houston,Bronze,410.8,7,3.4,FALSE,26,Neutral,58.68571429,Low (<$600),Medium Risk,36-40
+358,Female,31,New York,Gold,1160.6,15,4.5,TRUE,29,Satisfied,77.37333333,High (>$1000),Medium Risk,31-35
+359,Male,35,Los Angeles,Silver,810.9,12,4.3,FALSE,14,Neutral,67.575,Mid ($600-$1000),Low Risk,31-35
+360,Female,41,Chicago,Bronze,495.25,9,3.6,TRUE,41,Unsatisfied,55.02777778,Low (<$600),Medium Risk,41-43
+361,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,10,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+362,Male,32,Miami,Silver,660.3,10,3.8,TRUE,35,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+363,Female,36,Houston,Bronze,430.5,8,3.1,FALSE,21,Neutral,53.8125,Low (<$600),Low Risk,36-40
+364,Female,30,New York,Gold,1200.8,16,4.7,TRUE,22,Satisfied,75.05,High (>$1000),Low Risk,26-30
+365,Male,34,Los Angeles,Silver,780.2,11,4.1,FALSE,16,Neutral,70.92727273,Mid ($600-$1000),Low Risk,31-35
+366,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,42,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+367,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,13,Satisfied,73.025,High (>$1000),Low Risk,26-30
+368,Male,27,Miami,Silver,710.4,13,4.1,TRUE,57,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+369,Female,37,Houston,Bronze,450.8,7,3.4,FALSE,24,Neutral,64.4,Low (<$600),Low Risk,36-40
+370,Female,31,New York,Gold,1140.6,15,4.5,TRUE,30,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+371,Male,35,Los Angeles,Silver,800.9,12,4.1,FALSE,17,Neutral,66.74166667,Mid ($600-$1000),Low Risk,31-35
+372,Female,41,Chicago,Bronze,475.25,9,3.6,TRUE,42,Unsatisfied,52.80555556,Low (<$600),Medium Risk,41-43
+373,Male,28,San Francisco,Gold,1480.1,21,4.9,FALSE,11,Satisfied,70.48095238,High (>$1000),Low Risk,26-30
+374,Male,32,Miami,Silver,660.3,10,3.8,TRUE,36,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+375,Female,36,Houston,Bronze,470.5,8,3,FALSE,22,Neutral,58.8125,Low (<$600),Low Risk,36-40
+376,Female,30,New York,Gold,1190.8,16,4.5,TRUE,23,Satisfied,74.425,High (>$1000),Low Risk,26-30
+377,Male,33,Los Angeles,Silver,770.2,11,4.2,FALSE,18,Neutral,70.01818182,Mid ($600-$1000),Low Risk,31-35
+378,Female,43,Chicago,Bronze,515.75,10,3.3,TRUE,43,Unsatisfied,51.575,Low (<$600),Medium Risk,41-43
+379,Male,30,San Francisco,Gold,1450.5,19,4.6,FALSE,12,Satisfied,76.34210526,High (>$1000),Low Risk,26-30
+380,Male,27,Miami,Silver,710.4,13,4.1,TRUE,58,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+381,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,27,Neutral,61.54285714,Low (<$600),Medium Risk,36-40
+382,Female,31,New York,Gold,1160.6,15,4.5,TRUE,31,Satisfied,77.37333333,High (>$1000),Medium Risk,31-35
+383,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,15,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+384,Female,41,Chicago,Bronze,495.25,9,3.6,TRUE,43,Unsatisfied,55.02777778,Low (<$600),Medium Risk,41-43
+385,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,10,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+386,Male,32,Miami,Silver,660.3,10,3.8,TRUE,37,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+387,Female,36,Houston,Bronze,440.5,8,3.1,FALSE,23,Neutral,55.0625,Low (<$600),Low Risk,36-40
+388,Female,30,New York,Gold,1200.8,16,4.7,TRUE,24,Satisfied,75.05,High (>$1000),Low Risk,26-30
+389,Male,34,Los Angeles,Silver,780.2,11,4.1,FALSE,16,Neutral,70.92727273,Mid ($600-$1000),Low Risk,31-35
+390,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,44,Unsatisfied,50.575,Low (<$600),Medium Risk,41-43
+391,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,13,Satisfied,73.025,High (>$1000),Low Risk,26-30
+392,Male,27,Miami,Silver,710.4,13,4.1,TRUE,59,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+393,Female,37,Houston,Bronze,450.8,7,3.4,FALSE,28,Neutral,64.4,Low (<$600),Medium Risk,36-40
+394,Female,31,New York,Gold,1140.6,15,4.5,TRUE,32,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+395,Male,35,Los Angeles,Silver,800.9,12,4.1,FALSE,17,Neutral,66.74166667,Mid ($600-$1000),Low Risk,31-35
+396,Female,41,Chicago,Bronze,475.25,9,3.6,TRUE,44,Unsatisfied,52.80555556,Low (<$600),Medium Risk,41-43
+397,Male,28,San Francisco,Gold,1480.1,21,4.9,FALSE,12,Satisfied,70.48095238,High (>$1000),Low Risk,26-30
+398,Male,32,Miami,Silver,660.3,10,3.8,TRUE,38,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+399,Female,36,Houston,Bronze,470.5,8,3,FALSE,22,Neutral,58.8125,Low (<$600),Low Risk,36-40
+400,Female,30,New York,Gold,1190.8,16,4.5,TRUE,25,Satisfied,74.425,High (>$1000),Low Risk,26-30
+401,Male,33,Los Angeles,Silver,800.2,11,4.1,FALSE,18,Neutral,72.74545455,Mid ($600-$1000),Low Risk,31-35
+402,Female,43,Chicago,Bronze,515.75,10,3.3,TRUE,45,Unsatisfied,51.575,Low (<$600),Medium Risk,41-43
+403,Male,30,San Francisco,Gold,1450.5,19,4.6,FALSE,13,Satisfied,76.34210526,High (>$1000),Low Risk,26-30
+404,Male,27,Miami,Silver,710.4,13,4.1,TRUE,60,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+405,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,29,Neutral,61.54285714,Low (<$600),Medium Risk,36-40
+406,Female,31,New York,Gold,1160.6,15,4.5,TRUE,33,Satisfied,77.37333333,High (>$1000),Medium Risk,31-35
+407,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,16,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+408,Female,41,Chicago,Bronze,495.25,9,3.6,TRUE,45,Unsatisfied,55.02777778,Low (<$600),Medium Risk,41-43
+409,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,11,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+410,Male,32,Miami,Silver,660.3,10,3.8,TRUE,39,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+411,Female,36,Houston,Bronze,440.5,8,3.1,FALSE,24,Neutral,55.0625,Low (<$600),Low Risk,36-40
+412,Female,30,New York,Gold,1200.8,16,4.7,TRUE,25,Satisfied,75.05,High (>$1000),Low Risk,26-30
+413,Male,34,Los Angeles,Silver,780.2,11,4.1,FALSE,17,Neutral,70.92727273,Mid ($600-$1000),Low Risk,31-35
+414,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,46,Unsatisfied,50.575,Low (<$600),High Risk,41-43
+415,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,14,Satisfied,73.025,High (>$1000),Low Risk,26-30
+416,Male,27,Miami,Silver,710.4,13,4.1,TRUE,61,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+417,Female,37,Houston,Bronze,450.8,7,3.4,FALSE,30,Neutral,64.4,Low (<$600),Medium Risk,36-40
+418,Female,31,New York,Gold,1140.6,15,4.5,TRUE,34,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+419,Male,35,Los Angeles,Silver,800.9,12,4.1,FALSE,19,Neutral,66.74166667,Mid ($600-$1000),Low Risk,31-35
+420,Female,41,Chicago,Bronze,475.25,9,3.6,TRUE,46,Unsatisfied,52.80555556,Low (<$600),High Risk,41-43
+421,Male,28,San Francisco,Gold,1480.1,21,4.9,FALSE,12,Satisfied,70.48095238,High (>$1000),Low Risk,26-30
+422,Male,32,Miami,Silver,660.3,10,3.8,TRUE,40,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+423,Female,36,Houston,Bronze,470.5,8,3,FALSE,26,Neutral,58.8125,Low (<$600),Medium Risk,36-40
+424,Female,30,New York,Gold,1190.8,16,4.5,TRUE,27,Satisfied,74.425,High (>$1000),Medium Risk,26-30
+425,Male,34,Los Angeles,Silver,780.2,11,4.2,FALSE,18,Neutral,70.92727273,Mid ($600-$1000),Low Risk,31-35
+426,Female,43,Chicago,Bronze,515.75,10,3.3,TRUE,47,Unsatisfied,51.575,Low (<$600),High Risk,41-43
+427,Male,30,San Francisco,Gold,1450.5,19,4.6,FALSE,14,Satisfied,76.34210526,High (>$1000),Low Risk,26-30
+428,Male,27,Miami,Silver,710.4,13,4.1,TRUE,62,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+429,Female,37,Houston,Bronze,430.8,7,3.4,FALSE,31,Neutral,61.54285714,Low (<$600),Medium Risk,36-40
+430,Female,31,New York,Gold,1160.6,15,4.5,TRUE,35,Satisfied,77.37333333,High (>$1000),Medium Risk,31-35
+431,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,20,Neutral,68.40833333,Mid ($600-$1000),Low Risk,31-35
+432,Female,41,Chicago,Bronze,495.25,9,3.6,TRUE,47,Unsatisfied,55.02777778,Low (<$600),High Risk,41-43
+433,Male,28,San Francisco,Gold,1490.1,21,4.9,FALSE,11,Satisfied,70.95714286,High (>$1000),Low Risk,26-30
+434,Male,32,Miami,Silver,660.3,10,3.8,TRUE,41,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+435,Female,36,Houston,Bronze,440.5,8,3.1,FALSE,28,Neutral,55.0625,Low (<$600),Medium Risk,36-40
+436,Female,30,New York,Gold,1200.8,16,4.7,TRUE,28,Satisfied,75.05,High (>$1000),Medium Risk,26-30
+437,Male,34,Los Angeles,Silver,780.2,11,4.1,FALSE,19,Neutral,70.92727273,Mid ($600-$1000),Low Risk,31-35
+438,Female,43,Chicago,Bronze,505.75,10,3.3,TRUE,48,Unsatisfied,50.575,Low (<$600),High Risk,41-43
+439,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,15,Satisfied,73.025,High (>$1000),Low Risk,26-30
+440,Male,27,Miami,Silver,710.4,13,4.1,TRUE,63,Unsatisfied,54.64615385,Mid ($600-$1000),High Risk,26-30
+441,Female,37,Houston,Bronze,450.8,7,3.4,FALSE,32,Neutral,64.4,Low (<$600),Medium Risk,36-40
+442,Female,31,New York,Gold,1140.6,15,4.5,TRUE,36,Satisfied,76.04,High (>$1000),Medium Risk,31-35
+443,Male,35,Los Angeles,Silver,800.9,12,4.1,FALSE,20,Neutral,66.74166667,Mid ($600-$1000),Low Risk,31-35
+444,Female,41,Chicago,Bronze,475.25,9,3.6,TRUE,48,Unsatisfied,52.80555556,Low (<$600),High Risk,41-43
+445,Male,28,San Francisco,Gold,1480.1,21,4.9,FALSE,13,Satisfied,70.48095238,High (>$1000),Low Risk,26-30
+446,Male,32,Miami,Silver,660.3,10,3.8,TRUE,42,Unsatisfied,66.03,Mid ($600-$1000),Medium Risk,31-35
+447,Female,36,Houston,Bronze,470.5,8,3,FALSE,27,Neutral,58.8125,Low (<$600),Medium Risk,36-40
+448,Female,30,New York,Gold,1190.8,16,4.5,TRUE,28,Satisfied,74.425,High (>$1000),Medium Risk,26-30
+449,Male,34,Los Angeles,Silver,780.2,11,4.2,FALSE,21,Neutral,70.92727273,Mid ($600-$1000),Low Risk,31-35
+450,Female,43,Chicago,Bronze,515.75,10,3.3,TRUE,49,Unsatisfied,51.575,Low (<$600),High Risk,41-43
